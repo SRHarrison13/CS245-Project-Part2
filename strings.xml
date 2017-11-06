@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">theGUIneers</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome1">Welcome to</string>
+    <string name="welcome2">Concentration</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="selectTitle">Select number of tiles:</string>
+    <string name="tiles4">Four tiles</string>
+    <string name="tiles6">Six tiles</string>
+    <string name="tiles8">Eight tiles</string>
+    <string name="tiles10">Ten tiles</string>
+    <string name="tiles12">Twelve tiles</string>
+    <string name="tiles14">Fourteen tiles</string>
+    <string name="tiles16">Sixteen tiles</string>
+    <string name="tiles18">Eighteen tiles</string>
+    <string name="tiles20">Twenty tiles</string>
+    <string name="next">Next</string>
+
+</resources>
