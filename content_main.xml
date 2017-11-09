@@ -5,9 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black">
-    <!--app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="net.androidbootcamp.theguineers.MainActivity"
-    tools:showIn="@layout/activity_main">-->
 
     <TextView
         android:layout_width="wrap_content"
@@ -36,15 +33,16 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.836" />
 
-    <ImageView
-        android:id="@+id/imageView"
+    <ImageButton
+        android:id="@+id/startButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.36"
+        app:layout_constraintVertical_bias="0.385"
         app:srcCompat="@drawable/compass" />
 
 </android.support.constraint.ConstraintLayout>
